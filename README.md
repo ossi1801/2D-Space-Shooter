@@ -32,7 +32,7 @@ test version == 2020.3.0f1
 * [Unity](https://unity.com/) - Program used
 
 
-![https://github.com/ossi1801/readme-images/blob/main/AlienBoss.jpg]()
+![Game-ScreenShot.jpg](https://github.com/ossi1801/readme-images/blob/main/AlienBoss.jpg)
 
 
 ## Authors
